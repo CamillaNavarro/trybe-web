@@ -25,7 +25,10 @@ Autor: Camilla Navarro
     Para execução de todos os testes do projeto , na pasta raiz rodar o comando: 
     "cucumber"
 
+## Implementações escolhidas
+    Foram escolhidos os seguints padrões:
+  - PageObjects com o uso de Apps Actions
 
 ## Implementações pendentes 
     Estão pendentes neste projeto os seguintes pontos
-  - 
+  - Validações 
