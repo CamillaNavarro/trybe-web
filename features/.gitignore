@@ -1,0 +1,4 @@
+##Ignorar arquivos para não serem commitados no git.
+/Gemfile.lock
+/.byebug_history
+/debug.log
