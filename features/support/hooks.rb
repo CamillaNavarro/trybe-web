@@ -7,4 +7,6 @@ Before do
   @login = LoginPage.new
   @produto = ProdutosPage.new
   @carrinho = CarrinhoPage.new
+
+  page.current_window.resize_to(1440, 900)
 end

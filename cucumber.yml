@@ -1,1 +1,6 @@
-default: --no-source --color --format pretty
+---
+default: --no-source --color --publish-quiet -p pretty -p html
+
+pretty : -f pretty
+progress: -f progress
+html: -f html -o data/report.html
