@@ -2,7 +2,7 @@
 
 Funcionalidade: Efetuar cadastro de usuário
 
-Sendo um cliente
+Sendo um cliente 
 Quero fazer meu cadastro na loja do AutomationPractice
 Para que eu possa fazer compras
 
