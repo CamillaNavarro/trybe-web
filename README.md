@@ -1,9 +1,7 @@
-# Projeto de automação para Desafio Técnico QA - Trybe
+# Projeto de automação para estudos
 Autor: Camilla Navarro
 
-    Projeto desafio para vaga de qualidade na empresa Trybe
-    Projeto Webfront com Cucumber e Capybara
-
+    Projeto de estudos de Cucumber com Capybara
 ## Linguagem escolhida
     * Ruby
 
